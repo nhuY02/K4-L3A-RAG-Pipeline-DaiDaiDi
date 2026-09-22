@@ -1,0 +1,115 @@
+﻿== git ls-files ==
+.env.example
+.gitignore
+README.md
+app.py
+data/landing/legal/.gitkeep
+data/landing/news/.gitkeep
+data/standardized/legal/.gitkeep
+data/standardized/news/.gitkeep
+docs/GRADING_RUBRIC.md
+docs/MODULE_CONTRACTS.md
+docs/STEP_BY_STEP.md
+docs/SUGGESTED_TOPICS.md
+group_project/evaluation/RESULT.md
+group_project/evaluation/golden_dataset.json
+"group_project/\341\273\213ndividual/INDIVIDUAL_REPORT.md"
+pyproject.toml
+reports/.gitkeep
+reports/INDIVIDUAL_REPORT.md
+reports/RESULT.md
+src/__init__.py
+src/contracts.py
+src/task10_generation.py
+src/task1_collect_legal_docs.py
+src/task2_crawl_news.py
+src/task3_convert_markdown.py
+src/task4_chunking_indexing.py
+src/task5_semantic_search.py
+src/task6_lexical_search.py
+src/task7_reranking.py
+src/task8_pageindex_vectorless.py
+src/task9_retrieval_pipeline.py
+tests/__init__.py
+tests/test_acceptance.py
+tests/test_contracts.py
+== git status ==
+ M .gitignore
+ M app.py
+ M group_project/evaluation/RESULT.md
+ M group_project/evaluation/golden_dataset.json
+ M "group_project/\341\273\213ndividual/INDIVIDUAL_REPORT.md"
+ M pyproject.toml
+ M reports/INDIVIDUAL_REPORT.md
+ M reports/RESULT.md
+ M src/task10_generation.py
+ M src/task1_collect_legal_docs.py
+ M src/task2_crawl_news.py
+ M src/task3_convert_markdown.py
+ M src/task4_chunking_indexing.py
+ M src/task5_semantic_search.py
+ M src/task6_lexical_search.py
+ M src/task7_reranking.py
+ M src/task8_pageindex_vectorless.py
+ M src/task9_retrieval_pipeline.py
+?? _filelist.txt
+?? _gp.txt
+?? _landing.txt
+?? _pytest.txt
+?? _pytest_err.txt
+?? _pytest_out.txt
+?? data/golden_dataset.json
+?? data/landing/legal/GDL-SAM-008_Residential-Life-Guideline_07.8.2025.pdf
+?? data/landing/legal/POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.pdf
+?? data/landing/legal/VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.pdf
+?? data/landing/news/article_01.json
+?? data/landing/news/article_02.json
+?? data/landing/news/article_03.json
+?? data/landing/news/article_04.json
+?? data/landing/news/article_05.json
+?? data/landing/news/news_01_hoc-phi-hoc-bong-faq.json
+?? data/landing/news/news_02_hoc-bong-2026-2027.json
+?? data/landing/news/news_03_phong-o-ky-tuc-xa.json
+?? data/landing/news/news_04_library-graduate-faculty-instructors.json
+?? data/landing/news/news_05_thoi-khoa-bieu-dang-ky-hoc-phan.json
+?? data/standardized/legal/GDL-SAM-008_Residential-Life-Guideline_07.8.2025.md
+?? data/standardized/legal/POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md
+?? data/standardized/legal/VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md
+?? data/standardized/news/article_01.md
+?? data/standardized/news/article_02.md
+?? data/standardized/news/article_03.md
+?? data/standardized/news/article_04.md
+?? data/standardized/news/article_05.md
+?? data/standardized/news/news_01_hoc-phi-hoc-bong-faq.md
+?? data/standardized/news/news_02_hoc-bong-2026-2027.md
+?? data/standardized/news/news_03_phong-o-ky-tuc-xa.md
+?? data/standardized/news/news_04_library-graduate-faculty-instructors.md
+?? data/standardized/news/news_05_thoi-khoa-bieu-dang-ky-hoc-phan.md
+== git log ==
+6a2a2d4 feat: add report templates for contributions and evaluation
+2bbe0e0 fix: update dependencies
+3c01a06 fix: correct project name and description
+39fccd0 fix: update py version requirement
+7a43099 feat: first commit initial structure repo
+== env keys ==
+# Copy thÃ nh .env vÃ  chá»‰ Ä‘iá»n provider nhÃ³m sá»­ dá»¥ng. KhÃ´ng commit secret tháº­t.
+
+# LLM: openai | gemini | anthropic
+LLM_PROVIDER=<SET len=6>
+LLM_MODEL=<EMPTY>
+
+# Generation providers
+OPENAI_API_KEY=<EMPTY>
+GEMINI_API_KEY=<SET len=53>
+ANTHROPIC_API_KEY=<EMPTY>
+
+# Embedding: sentence_transformers | openai | gemini
+EMBEDDING_PROVIDER=<SET len=21>
+EMBEDDING_MODEL=<SET len=11>
+
+# Optional services
+PAGEINDEX_API_KEY=<EMPTY>
+JINA_API_KEY=<EMPTY>
+
+# Hiá»‡u chá»‰nh báº±ng query in-domain vÃ  out-of-domain trÆ°á»›c khi Ä‘iá»n.
+SCORE_THRESHOLD=<EMPTY>

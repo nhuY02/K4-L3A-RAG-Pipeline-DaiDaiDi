@@ -1,0 +1,52 @@
+﻿VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:24: Đơn vị tính: VND
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:58: • Mức phí 2.000.000 đồng/lần/ứng viên được vào vòng phỏng vấn
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:71: • Mức phí: 20.000.000 đồng/Ứng viên
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:84: ✓ Đối với tài liệu thông thường: 10.000 đồng/ngày quá hạn/tài liệu
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:85: ✓ Đối với tài liệu dành riêng cho khóa học: 10.000 đồng/giờ quá hạn/tài liệu
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:86: ✓ Đối với thiết bị: 10.000 đồng/ngày quá hạn/thiết bị
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:93: • Mức phí: 200.000 đồng/tài liệu, thiết bị.
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:103: 200.000 đồng phí hành chính/tài liệu.
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:105: ✓ Đối với thiết bị: Mức phí được tính bằng giá mua thiết bị mới cùng loại hoặc tương đương và 200.000 đồng
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:118: 1. Phí cấp lại thẻ sinh viên 200.000 đồng/thẻ Thời điểm đăng ký làm lại thẻ
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:120: tạm thời, sao y bản chính bảng điểm, xác nhận 50.000 đồng/bản Thời điểm đăng ký làm giấy tờ
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:123: 2.000.000 đồng/lần Thời điểm tiếp nhận hồ sơ đăng ký
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:125: 4. Phí xét chuyển chương trình đào tạo 2.000.000 đồng/lần Thời điểm tiếp nhận hồ sơ đăng ký
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:126: 5. Phí xét học cùng lúc hai chương trình đào tạo 2.000.000 đồng/lần Thời điểm tiếp nhận hồ sơ đăng ký
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:128: Khoản 13 của Quy chế đào tạo đại học, không 2.000.000 đồng/môn yêu
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:132: 7. Phí phúc tra điểm 1.000.000 đồng/lần/môn Thời điểm đăng ký phúc tra
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:143: ✓ Đối với môn thi lý thuyết: 1.500.000 đồng/SV/lần
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:144: ✓ Đối với môn thi thực hành: 2.500.000 đồng/SV/lần
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:145: ✓ Đối với môn thi theo đề thi của Hội đồng khảo thí Y khoa Hoa Kỳ (NBME): 2.000.000 đồng/SV/lần.
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:169: Đơn giá “Ưu đãi Đồng hành
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:172: (người/phòng) (VND/người/tháng)
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:173: (VND/người/tháng)
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:182: - Đơn giá “Ưu đãi Đồng hành cùng VinUni Residence” được áp dụng khi thỏa mãn đồng thời các điều
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:186: - Sinh viên có thể áp dụng đồng thời ưu đãi “Đồng hành cùng VinUni Residence” và chính sách chiết khấu
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:238: •  Để tham gia Lễ Tốt nghiệp, tất cả sinh viên tốt nghiệp cần đăng ký và đóng mức phí 2.000.000 đồng/SV. Mức
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:243: phẩm tốt nghiệp, tiệc cocktail cho phụ huynh/sinh viên… đã được Nhà trường và các đơn vị đồng hành
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:253: | STT  | Danh mục  | Đơn vị tính   | Đơn giá (VND)  |
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:279: | STT                         | Danh mục  | Đơn vị tính   | Đơn giá (VND)  |
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:293: chi phí sửa chữa phục hồi nguyên trạng tài sản/thiết bị bị tổn thất; và thêm 200.000 đồng phí hành chính/lần.
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:299: • Mức phí 2.000.000 đồng/lần/ứng viên được vào vòng phỏng vấn.
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:306: • Học phí niêm yết chung cho tất cả các chương trình Sau đại học: 932.400.000 đồng/năm. Tuỳ theo thời gian
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:316: • Mức phí: 2.000.000 VND/người. Mức phí có thể thay đổi hằng năm theo thông báo của trường, căn cứ vào
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:330: ✓ Sinh viên trao đổi ngắn hạn (ít hơn 1 học kỳ hoặc dưới 4 tháng): 1.250.000 đồng/tuần/SV
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:331: ✓ Sinh viên trao đổi dài hạn (từ 1 học kỳ trở lên): 10.000.000 đồng/kỳ/SV
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:348: • Được áp dụng đồng thời (cộng dồn) các mức Học bổng tài năng, Học bổng phụ, Hỗ trợ tài chính nhưng tối đa
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:379: • Chính sách ưu đãi học phí đặc biệt cho cựu sinh viên không được áp dụng đồng thời với chương trình ưu đãi
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:381: • Các ưu đãi học phí đặc biệt và chiết khấu đóng phí theo năm học được áp dụng đồng thời với chương trình học
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:437: ✓ Số tài khoản (VND) : 88991188
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:438: ✓ Số tài khoản (USD) : 11229922
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:441: • Đối với các giao dịch chuyển khoản ngoại tệ từ nước ngoài có thể được thực hiện qua tài khoản USD của
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:443: • Học phí tính theo đô la Mỹ (USD) CHỈ được áp dụng cho Sinh viên Quốc tế khi thanh toán Học phí từ nước
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:452: quy định thì Sinh viên phải nộp một khoản phí phạt thanh toán chậm là 2.000.000 VND. Phí này sẽ được nộp
+news_01_hoc-phi-hoc-bong-faq.md:17: - Tất cả các ngành: khoảng 815.850.000 VND (khoảng 35.000 USD) mỗi năm.
+news_01_hoc-phi-hoc-bong-faq.md:18: - Điều dưỡng: 349.650.000 VND (khoảng 15.000 USD) mỗi năm.
+news_01_hoc-phi-hoc-bong-faq.md:20: Mọi ứng viên trúng tuyển đều được hưởng Hỗ trợ Phát triển Giáo dục 35%. Do đó, mức học phí còn lại khoảng 227 triệu VND mỗi năm cho chương trình Điều dưỡng và khoảng 530 triệu VND mỗi năm cho các chương trình khác.
+news_01_hoc-phi-hoc-bong-faq.md:65: - Sinh viên có cơ hội tham gia các nguồn học bổng/hỗ trợ tài chính khác trong quá trình học: Học bổng Chủ tịch (80 triệu VND/suất, tương đương 10% học phí), Học bổng Hiệu trưởng (60 triệu VND/suất), Học bổng Viện trưởng (40 triệu VND/suất), các giải thưởng Change Maker (5, 15 hoặc 30 triệu VND/suất), và học bổng của doanh nghiệp, mạnh thường quân.
+news_01_hoc-phi-hoc-bong-faq.md:92: Căn cứ các điều kiện trên, Hội đồng xét Hỗ trợ tài chính sẽ xem xét tăng mức hỗ trợ.
+news_02_hoc-bong-2026-2027.md:59: ## Cam kết đồng hành lâu dài
+news_02_hoc-bong-2026-2027.md:69: Ứng viên nộp hồ sơ ở Đợt 1 và đã tham gia VinUni Open Day hoặc các sự kiện tuyển sinh khác của trường được miễn lệ phí tuyển sinh 2.000.000 VND.
+news_02_hoc-bong-2026-2027.md:81: - Miền Nam: hotline (+84) 974 479 846; Văn phòng Đại diện Tuyển sinh VinUni, Tầng 20A, Vincom Đồng Khởi, 45A Lý Tự Trọng, TP. Hồ Chí Minh.
+news_04_library-graduate-faculty-instructors.md:32: - Overdue fines are 10,000 VND per business day after the due date, per item. They accrue from the due date to the date the item is reported lost, or returned if found afterwards.
+news_04_library-graduate-faculty-instructors.md:39: Late return fines are 10,000 VND per hour or part of an hour. The cost of replacement parts is determined by library staff.

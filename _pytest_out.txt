@@ -1,0 +1,23 @@
+.............F......                                                     [100%]
+================================== FAILURES ===================================
+__________________ test_lexical_search_returns_bm25_contract __________________
+tests\test_contracts.py:151: in test_lexical_search_returns_bm25_contract
+    output = lexical.lexical_search("tuition fee", top_k=2)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src\task6_lexical_search.py:43: in lexical_search
+    doc_scores = BM25_INDEX.get_scores(tokenized_query)
+                 ^^^^^^^^^^^^^^^^^^^^^
+E   AttributeError: 'NoneType' object has no attribute 'get_scores'
+============================== warnings summary ===============================
+.venv\Lib\site-packages\_pytest\cacheprovider.py:469
+  E:\K4-L3A-RAG-Pipeline-DaiDaiDi\.venv\Lib\site-packages\_pytest\cacheprovider.py:469: PytestCacheWarning: could not create cache path E:\K4-L3A-RAG-Pipeline-DaiDaiDi\.pytest_cache\v\cache\nodeids: [WinError 5] Access is denied: 'E:\\K4-L3A-RAG-Pipeline-DaiDaiDi\\.pytest_cache\\v\\cache'
+    config.cache.set("cache/nodeids", sorted(self.cached_nodeids))
+
+.venv\Lib\site-packages\_pytest\cacheprovider.py:423
+  E:\K4-L3A-RAG-Pipeline-DaiDaiDi\.venv\Lib\site-packages\_pytest\cacheprovider.py:423: PytestCacheWarning: could not create cache path E:\K4-L3A-RAG-Pipeline-DaiDaiDi\.pytest_cache\v\cache\lastfailed: [WinError 5] Access is denied: 'E:\\K4-L3A-RAG-Pipeline-DaiDaiDi\\.pytest_cache\\v\\cache'
+    config.cache.set("cache/lastfailed", self.lastfailed)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+FAILED tests/test_contracts.py::test_lexical_search_returns_bm25_contract - A...
+1 failed, 19 passed, 2 warnings in 14.89s

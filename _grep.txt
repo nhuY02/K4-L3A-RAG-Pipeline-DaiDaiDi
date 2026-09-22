@@ -1,0 +1,33 @@
+﻿GDL-SAM-008_Residential-Life-Guideline_07.8.2025.md:186: Curfew
+GDL-SAM-008_Residential-Life-Guideline_07.8.2025.md:372: •  Residents shall complete the check-out form (inspection, handover form) and return the access keys, borrowed
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:58: 3.1. Borrowing Library Equipment ................................................................................................................. 5
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:59: 3.2. Using Library Functional Rooms (e.g., group rooms, studios, AR/VR room) ...................................... 5
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:85: library, borrow items, or use electronic resources. IDs must be shown when requested.
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:111: • Unattended items, including laptops or borrowed books, may be moved to the Lost & Found
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:121: Borrow?  Borrow/Return
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:127: | 2   |     |     | No  Not available for borrowing  |     |     |     |
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:135: Borrowing Rules
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:157: | •  Guests / Interns / Alumni  |     |     | Not eligible to borrow     |     |     |     |
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:159: Faculty borrowing textbooks for teaching can request a 6-month loan, but items may be recalled if
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:167: o  Your borrowing privileges are blocked.
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:168: o  You’ve reached your borrowing limit.
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:176: • All borrowed items can be recalled after 1 week.
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:191: 3.1. Borrowing Library Equipment
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:199: Borrowers must:
+POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.md:204: 3.2. Using Library Functional Rooms (e.g., group rooms, studios, AR/VR room)
+VU_TS03.VN_Quy-dinh-tai-chinh-va-Bieu-phi_AY26-27_22.7.2026_Student.md:90: 3.2. Phí sửa chữa tài liệu, thiết bị hư hỏng nhẹ
+news_01_hoc-phi-hoc-bong-faq.md:45: VinUni cung cấp học bổng cho toàn bộ bốn năm học, không chỉ năm nhất. Để duy trì học bổng, sinh viên cần đạt GPA tối thiểu 2.5 (đối với học bổng 50%–90%) và tối thiểu 3.2 (đối với học bổng 100% và toàn phần).
+news_01_hoc-phi-hoc-bong-faq.md:71: Chương trình Học bổng Tài năng (Merit-based Scholarship), trị giá từ 50% đến toàn phần:
+news_01_hoc-phi-hoc-bong-faq.md:74: - Học bổng Hiệu trưởng (Provost's Merit Scholarship): 90% và 100% học phí.
+news_02_hoc-bong-2026-2027.md:23: ### Chương trình Học bổng Tài năng (Merit-based Scholarship)
+news_02_hoc-bong-2026-2027.md:28: - Học bổng Hiệu trưởng (Provost's Merit Scholarship): 100% học phí.
+news_03_phong-o-ky-tuc-xa.md:15: - Căn hộ 8 giường (~96 m²), chia thành 3/3/2 phòng ngủ.
+news_04_library-graduate-faculty-instructors.md:3: **Source:** https://library.vinuni.edu.vn/services/borrow-and-request/graduate-faculty-and-instructors/
+news_04_library-graduate-faculty-instructors.md:11: Information for graduate students, faculty, and instructors on borrowing, resources, services, and spaces at the VinUni Library.
+news_04_library-graduate-faculty-instructors.md:13: ## Borrowing
+news_04_library-graduate-faculty-instructors.md:17: The VinUniversity ID serves as the library card, used to borrow library materials or equipment.
+news_04_library-graduate-faculty-instructors.md:19: ### Borrowing privileges
+news_04_library-graduate-faculty-instructors.md:21: Graduate students may borrow up to 5 items at a time for up to one month per item. Books may be renewed once for two weeks, provided no other patron has requested the item. Materials that are not overdue may be renewed by phone or in person at the circulation desk. Overdue materials must be renewed in person at the circulation desk.
+news_04_library-graduate-faculty-instructors.md:26: - Books can be borrowed at the circulation counter, and two self-check machines are available.
+news_04_library-graduate-faculty-instructors.md:37: The following equipment can be borrowed from the Circulation Desk for use in the library only: mouse, headphones, iPads, memory sticks (USB), and mobile device chargers. The loan period for most items is three hours. They are free to borrow, but borrowers cover the cost of lost or stolen items.
+news_04_library-graduate-faculty-instructors.md:93: Users may use the library desktop computers, borrow laptops or iPads from the circulation desk, or connect their own devices to the University Wi-Fi. All University computing equipment is governed by the University's acceptable use policy.

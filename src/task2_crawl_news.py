@@ -16,30 +16,31 @@ Cài browser trước khi chạy:
 import asyncio
 import json
 from pathlib import Path
-
+from datetime import datetime
+# Cần cài đặt thư viện crawl4ai nếu máy bạn chưa có
+from crawl4ai import AsyncWebCrawler
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
+    "https://vinuni.edu.vn/news/new-dormitory-facilities",
+    "https://vinuni.edu.vn/admissions/financial-aid-program",
+    "https://vinuni.edu.vn/news/tuition-payment-deadline",
+    "https://vnexpress.net/vinuni-trao-hoc-bong-toan-phan-cho-sinh-vien-xuat-sac-456789.html",
+    "https://thanhnien.vn/vinuni-khai-giang-nam-hoc-moi-18523091012345678.htm"
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    """Sử dụng Crawl4AI để cào dữ liệu từ URL thật."""
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(url=url)
+        return {
+            "url": url,
+            "title": result.metadata.get("title", "Unknown") if result.metadata else "Unknown",
+            "date_crawled": datetime.now().isoformat(),
+            "content_markdown": result.markdown,
+        }
 
 
 async def crawl_all() -> None:

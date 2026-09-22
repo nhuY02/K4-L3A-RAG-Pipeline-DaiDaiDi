@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Mức học phí của chương trình Cử nhân Quản trị Kinh doanh tại VinUni là bao nhiêu?",
+    "expected_answer": "Theo Quy chế Tài chính, mức học phí của chương trình Cử nhân Quản trị Kinh doanh là khoảng 815.000.000 VNĐ/năm học.",
+    "expected_context": "Mock context from legal document or news article covering Mức học phí của chươ..."
+  },
+  {
+    "question": "Học phí của chương trình Kỹ thuật phần mềm là bao nhiêu?",
+    "expected_answer": "Mức học phí của chương trình Cử nhân Kỹ thuật phần mềm tại VinUni là 815.000.000 VNĐ/năm.",
+    "expected_context": "Mock context from legal document or news article covering Học phí của chương t..."
+  },
+  {
+    "question": "Học bổng Tài năng (Merit-based Scholarship) của VinUni tài trợ mức bao nhiêu?",
+    "expected_answer": "Học bổng Tài năng có thể chi trả từ 50% đến 100% học phí toàn khóa học tuỳ vào năng lực của sinh viên.",
+    "expected_context": "Mock context from legal document or news article covering Học bổng Tài năng (M..."
+  },
+  {
+    "question": "Nếu duy trì học bổng tài năng cần đạt điều kiện GPA như thế nào?",
+    "expected_answer": "Sinh viên cần duy trì điểm trung bình tích lũy (CGPA) tối thiểu từ 3.2/4.0 trở lên để tiếp tục nhận học bổng Tài năng.",
+    "expected_context": "Mock context from legal document or news article covering Nếu duy trì học bổng..."
+  },
+  {
+    "question": "VinUni có cung cấp hỗ trợ tài chính (Financial Aid) không?",
+    "expected_answer": "Có, VinUni cung cấp hỗ trợ tài chính từ 50% đến 80% học phí dựa trên hoàn cảnh kinh tế của gia đình sinh viên.",
+    "expected_context": "Mock context from legal document or news article covering VinUni có cung cấp h..."
+  },
+  {
+    "question": "Phí ký túc xá cho phòng đơn tại VinUni là bao nhiêu một tháng?",
+    "expected_answer": "Phí lưu trú tại phòng đơn của ký túc xá VinUni khoảng 4.500.000 VNĐ/tháng/sinh viên.",
+    "expected_context": "Mock context from legal document or news article covering Phí ký túc xá cho ph..."
+  },
+  {
+    "question": "Ký túc xá của VinUni có bao gồm các tiện ích gì?",
+    "expected_answer": "Ký túc xá bao gồm các tiện ích như giường, tủ, bàn học, điều hòa, phòng tắm riêng biệt, khu sinh hoạt chung và an ninh 24/7.",
+    "expected_context": "Mock context from legal document or news article covering Ký túc xá của VinUni..."
+  },
+  {
+    "question": "Quy định về thời gian đóng cửa của ký túc xá là mấy giờ?",
+    "expected_answer": "Thời gian giới nghiêm (curfew) của ký túc xá thường là 11:30 PM (23:30) hằng ngày, nhưng sinh viên có thể đăng ký về muộn nếu có lý do chính đáng.",
+    "expected_context": "Mock context from legal document or news article covering Quy định về thời gia..."
+  },
+  {
+    "question": "Thư viện VinUni mở cửa vào những khung giờ nào?",
+    "expected_answer": "Thư viện mở cửa từ 8:00 AM đến 8:00 PM từ Thứ Hai đến Thứ Sáu, và 9:00 AM đến 5:00 PM vào cuối tuần. Không mở cửa các ngày lễ.",
+    "expected_context": "Mock context from legal document or news article covering Thư viện VinUni mở c..."
+  },
+  {
+    "question": "Sinh viên được mượn tối đa bao nhiêu sách từ thư viện?",
+    "expected_answer": "Sinh viên có thể mượn tối đa 5 quyển sách trong cùng một thời điểm, thời hạn mượn thông thường là 2 tuần.",
+    "expected_context": "Mock context from legal document or news article covering Sinh viên được mượn ..."
+  },
+  {
+    "question": "Làm thế nào để đăng ký học phần (Course Registration)?",
+    "expected_answer": "Sinh viên thực hiện đăng ký học phần qua cổng thông tin sinh viên (SIS) trong thời gian quy định của mỗi học kỳ.",
+    "expected_context": "Mock context from legal document or news article covering Làm thế nào để đăng ..."
+  },
+  {
+    "question": "Có thể hủy học phần sau khi đã đăng ký không?",
+    "expected_answer": "Sinh viên có thể rút học phần (Add/Drop) trong vòng 2 tuần đầu tiên của học kỳ mà không bị ghi nhận vào bảng điểm.",
+    "expected_context": "Mock context from legal document or news article covering Có thể hủy học phần ..."
+  },
+  {
+    "question": "Quy định về sĩ số lớp học tối đa ở VinUni là bao nhiêu?",
+    "expected_answer": "Hầu hết các lớp học tại VinUni giới hạn sĩ số không quá 30 sinh viên để đảm bảo chất lượng tương tác.",
+    "expected_context": "Mock context from legal document or news article covering Quy định về sĩ số lớ..."
+  },
+  {
+    "question": "Khi nào thì sinh viên phải nộp học phí?",
+    "expected_answer": "Sinh viên phải hoàn thành đóng học phí vào thời điểm trước khi bắt đầu học kỳ mới, thường vào tháng 8 và tháng 1 hàng năm.",
+    "expected_context": "Mock context from legal document or news article covering Khi nào thì sinh viê..."
+  },
+  {
+    "question": "Có thể đăng ký ở ký túc xá trực tuyến không?",
+    "expected_answer": "Có, sinh viên mới nhập học hoặc sinh viên hiện tại có thể nộp đơn đăng ký phòng ký túc xá thông qua hệ thống trực tuyến của trường.",
+    "expected_context": "Mock context from legal document or news article covering Có thể đăng ký ở ký ..."
+  }
+]
